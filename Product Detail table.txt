@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Product_Group_ID,Description,Manufacturer,Supplier,Cost_Price,Selling_Price,Stock_Quantity,Warranty_Period,Product_Launch_Date
+201,Smartphone A,1,High-end smartphone with advanced features,ABC Electronics,Supplier X,400,600,100,12 months,2023-01-01
+202,Laptop B,2,Powerful laptop for business users,XYZ Computers,Supplier Y,800,1200,50,24 months,2022-06-01
+203,Tablet C,1,Lightweight tablet with long battery life,ABC Electronics,Supplier X,300,450,80,18 months,2023-03-15
+204,Smartwatch D,3,Health-focused smartwatch with fitness tracking,DEF Wearables,Supplier Z,150,250,150,12 months,2023-08-20
+205,Headphones E,4,Noise-cancelling headphones for immersive audio,HIJ Audio,Supplier W,100,180,200,12 months,2023-05-10
+206,Smart Speaker F,5,Voice-controlled smart speaker for home use,KLM Tech,Supplier V,120,200,120,12 months,2023-07-01
+207,Camera G,6,Professional-grade camera for photographers,OPQ Cameras,Supplier U,900,1500,30,36 months,2022-12-05
+208,Printer H,7,High-speed printer for office environments,RST Printers,Supplier T,300,500,60,24 months,2023-02-18
+209,Monitor I,8,Ultra-wide monitor for enhanced productivity,UVW Displays,Supplier S,400,700,40,36 months,2023-04-22
+210,Router J,9,High-performance router for seamless connectivity,XYZ Networks,Supplier R,150,250,100,24 months,2023-09-15
+211,External Hard Drive K,10,Portable storage solution with robust backup features,ABC Storage,Supplier Q,80,120,300,12 months,2023-11-30
+212,Gaming Console L,11,Next-generation gaming console for immersive gameplay,XYZ Gaming,Supplier P,400,600,80,24 months,2023-08-01
+213,Keyboard M,12,Ergonomic keyboard with customizable RGB lighting,UVW Peripherals,Supplier O,50,80,200,12 months,2023-06-10
+214,Mouse N,13,Precision gaming mouse with programmable buttons,HIJ Mice,Supplier N,30,50,250,12 months,2023-03-25
+215,Smart Thermostat O,14,Energy-efficient thermostat for smart homes,DEF Thermostats,Supplier M,120,200,150,18 months,2023-09-05
+216,Electric Scooter P,15,Foldable electric scooter for urban commuting,RST Mobility,Supplier L,300,500,100,24 months,2023-07-20
+217,Drone Q,16,Advanced drone with 4K camera and GPS tracking,OPQ Drones,Supplier K,400,700,50,24 months,2023-04-15
+218,Robot Vacuum R,17,Autonomous robot vacuum cleaner for hands-free cleaning,ABC Robotics,Supplier J,200,350,80,24 months,2023-01-28
+219,Fitness Tracker S,18,Activity tracker with heart rate monitoring,XYZ Fitness,Supplier I,80,120,200,12 months,2023-10-10
+220,Wireless Earbuds T,19,True wireless earbuds with long battery life,HIJ Audio,Supplier W,100,150,300,12 months,2023-11-15
+221,Portable Charger U,20,Compact portable charger for on-the-go charging,KLM Power,Supplier V,40,60,500,12 months,2023-08-25
+222,Security Camera V,21,Outdoor security camera with night vision,OPQ Security,Supplier U,150,250,150,24 months,2023-06-01
+223,Bluetooth Speaker W,22,Portable Bluetooth speaker with waterproof design,RST Audio,Supplier T,80,120,250,12 months,2023-03-12
+224,Power Bank X,23,High-capacity power bank for multiple device charging,UVW Power,Supplier S,50,80,400,12 months,2023-01-05
+225,Gaming Mousepad Y,24,Large gaming mousepad with anti-fray edges,XYZ Gaming,Supplier R,20,30,500,6 months,2023-04-18
+226,Wireless Keyboard Z,25,Wireless keyboard with quiet keys and long battery life,UVW Peripherals,Supplier O,60,100,300,12 months,2023-07-30
+227,Smart Home Hub AA,26,Central hub for controlling smart home devices,ABC Smart,Supplier X,150,250,200,18 months,2023-09-20
+228,VR Headset BB,27,Virtual reality headset for immersive experiences,XYZ VR,Supplier Y,300,500,100,24 months,2023-11-02
+229,Desk Lamp CC,28,LED desk lamp with adjustable brightness and color temperature,UVW Lighting,Supplier Z,40,60,400,12 months,2023-06-15
+230,Portable SSD DD,29,Portable SSD with fast data transfer speeds and durable design,HIJ Storage,Supplier W,100,150,300,12 months,2023-03-08
+231,Fitness Smartwatch EE,30,Smartwatch with fitness tracking and GPS,DEF Wearables,Supplier M,120,200,250,12 months,2023-01-20
+232,Wireless Router FF,9,Dual-band wireless router for home and small office use,XYZ Networks,Supplier R,80,120,400,18 months,2023-05-15
+233,Smart Scale GG,31,Smart scale with body composition analysis,HIJ Health,Supplier N,60,100,300,12 months,2023-08-10
+234,Car Dash Cam HH,32,Dash cam for recording while driving,OPQ Cameras,Supplier K,150,250,200,24 months,2023-11-25
+235,Wireless Charger II,33,Wireless charger for Qi-enabled devices,KLM Power,Supplier V,30,50,500,12 months,2023-06-05
+236,Bluetooth Earphones JJ,19,Bluetooth earphones with noise isolation and mic,HIJ Audio,Supplier W,50,80,400,12 months,2023-09-18
+237,Home Security Camera KK,21,Indoor security camera with two-way audio,OPQ Security,Supplier U,100,150,300,18 months,2023-02-28
+238,External SSD LL,29,External SSD with USB 3.2 Gen 2 interface,HIJ Storage,Supplier W,120,180,250,12 months,2023-04-01
+239,Gaming Keyboard MM,12,Mechanical gaming keyboard with RGB backlighting,UVW Peripherals,Supplier O,100,150,300,12 months,2023-07-12
+240,Bluetooth Speaker NN,22,Portable Bluetooth speaker with stereo sound,RST Audio,Supplier T,80,120,350,12 months,2023-10-05
+241,Car Phone Mount OO,34,Universal car phone mount with adjustable grip,ABC Accessories,Supplier X,20,30,600,6 months,2023-12-15
+242,USB-C Hub PP,35,USB-C hub with multiple ports and 4K HDMI,XYZ Accessories,Supplier Y,40,60,500,12 months,2023-09-28
+243,Laptop Stand QQ,36,Adjustable laptop stand for ergonomic use,UVW Accessories,Supplier Z,30,50,400,12 months,2023-02-10
+244,Wireless Mouse RR,13,Wireless mouse with precise optical tracking,HIJ Mice,Supplier N,30,50,350,12 months,2023-05-22
+245,Smart Doorbell SS,37,Smart doorbell with HD video and motion detection,OPQ Security,Supplier U,120,200,250,18 months,2023-08-03
+246,Portable Projector TT,38,Compact portable projector for presentations and entertainment,KLM Tech,Supplier V,200,300,200,24 months,2023-11-16
+247,Electric Toothbrush UU,39,Electric toothbrush with multiple cleaning modes,DEF Health,Supplier M,80,120,300,12 months,2023-04-20
+248,Robot Vacuum VV,17,Robot vacuum with smart mapping and self-charging,ABC Robotics,Supplier J,300,450,150,24 months,2023-07-08
+249,Smart Watch WW,30,Smart watch with heart rate monitoring and GPS,XYZ Wearables,Supplier I,150,250,200,18 months,2023-09-30
+250,Bluetooth Adapter XX,40,Bluetooth adapter for wireless connectivity,UVW Accessories,Supplier Z,20,30,500,12 months,2023-01-25

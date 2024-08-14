@@ -1,0 +1,69 @@
+Trend_ID,Product_Group_ID,Trend_Name,Trend_Description,Trend_Start_Date,Trend_End_Date,Sales_Volume,Market_Share,Growth_Rate,Trend_Region,Analysis_Date
+1,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2023-11-01,2024-01-31,25000,30%,8%,Global,2024-02-10
+2,2,Smartphone Market Shift,"Rapid adoption of 5G smartphones driving market growth.",2024-01-15,2024-03-15,18000,25%,10%,North America,2024-03-30
+3,3,Home Appliances Demand Surge,"High demand for smart home appliances with energy-saving features.",2024-02-01,2024-04-01,15000,20%,6%,Europe,2024-04-15
+4,4,Health and Wellness Products Trend,"Increasing consumer interest in health and wellness products.",2024-03-01,2024-05-01,12000,15%,5%,Asia-Pacific,2024-05-15
+5,5,Green Technology Adoption,"Growing adoption of green technologies in consumer electronics.",2024-04-01,2024-06-01,10000,10%,3%,Latin America,2024-06-15
+6,1,Electronics Price Drop,"Competitive pricing leads to increased sales of electronics across multiple regions.",2024-05-01,2024-07-01,28000,35%,12%,Global,2024-07-15
+7,2,Tablet Market Expansion,"Expansion of tablet market due to remote work and online education trends.",2024-06-01,2024-08-01,20000,28%,9%,North America,2024-08-15
+8,3,Smart Home Devices Innovation,"Innovative smart home devices driving market growth.",2024-07-01,2024-09-01,18000,25%,8%,Europe,2024-09-15
+9,4,Electric Vehicles Surge,"Increasing sales and adoption of electric vehicles worldwide.",2024-08-01,2024-10-01,15000,20%,6%,Asia-Pacific,2024-10-15
+10,5,Online Gaming Boom,"Surge in online gaming leading to increased demand for gaming hardware.",2024-09-01,2024-11-01,12000,15%,5%,Latin America,2024-11-15
+11,1,Back-to-School Electronics Sales,"Seasonal increase in electronics sales driven by back-to-school shopping.",2024-10-01,2024-12-01,30000,40%,15%,Global,2024-12-15
+12,2,Smartphone Camera Innovation,"Advancements in smartphone camera technology boosting market growth.",2025-01-01,2025-03-01,22000,30%,10%,North America,2025-03-15
+13,3,Energy-Efficient Appliances Trend,"Growing preference for energy-efficient appliances.",2025-02-01,2025-04-01,18000,25%,8%,Europe,2025-04-15
+14,4,Electric Scooter Market Expansion,"Expansion of electric scooter market in urban areas.",2025-03-01,2025-05-01,15000,20%,6%,Asia-Pacific,2025-05-15
+15,5,Virtual Reality Adoption,"Increasing adoption of virtual reality devices in entertainment and education.",2025-04-01,2025-06-01,12000,15%,5%,Latin America,2025-06-15
+16,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2025-05-01,2025-07-01,32000,35%,12%,Global,2025-07-15
+17,2,Smartphone Market Shift,"Rapid adoption of foldable smartphones driving market growth.",2025-06-01,2025-08-01,24000,30%,10%,North America,2025-08-15
+18,3,Smart Kitchen Appliances Demand Surge,"High demand for smart kitchen appliances with IoT capabilities.",2025-07-01,2025-09-01,20000,25%,8%,Europe,2025-09-15
+19,4,Health and Fitness Wearables Trend,"Increasing popularity of health and fitness wearables.",2025-08-01,2025-10-01,17000,20%,6%,Asia-Pacific,2025-10-15
+20,5,Green Energy Technology Adoption,"Growing adoption of green energy technologies in consumer electronics.",2025-09-01,2025-11-01,14000,15%,5%,Latin America,2025-11-15
+21,1,Electronics Price Drop,"Competitive pricing leads to increased sales of electronics across multiple regions.",2025-10-01,2025-12-01,35000,40%,15%,Global,2025-12-15
+22,2,Tablet Market Expansion,"Expansion of tablet market due to increasing demand for portable computing devices.",2026-01-01,2026-03-01,26000,30%,10%,North America,2026-03-15
+23,3,Home Entertainment Systems Innovation,"Innovative home entertainment systems driving market growth.",2026-02-01,2026-04-01,22000,25%,8%,Europe,2026-04-15
+24,4,Electric Vehicles Surge,"Continued growth in electric vehicle sales globally.",2026-03-01,2026-05-01,18000,20%,6%,Asia-Pacific,2026-05-15
+25,5,Online Streaming Platforms Boom,"Surge in popularity of online streaming leading to increased demand for streaming devices.",2026-04-01,2026-06-01,15000,15%,5%,Latin America,2026-06-15
+26,1,Back-to-School Electronics Sales,"Seasonal increase in electronics sales driven by back-to-school shopping.",2026-05-01,2026-07-01,38000,45%,18%,Global,2026-07-15
+27,2,Smartphone Camera Innovation,"Advancements in smartphone camera technology boosting market growth.",2026-06-01,2026-08-01,28000,35%,12%,North America,2026-08-15
+28,3,Energy-Efficient Appliances Trend,"Growing preference for energy-efficient appliances.",2026-07-01,2026-09-01,24000,30%,10%,Europe,2026-09-15
+29,4,Electric Scooter Market Expansion,"Expansion of electric scooter market in urban areas.",2026-08-01,2026-10-01,20000,25%,8%,Asia-Pacific,2026-10-15
+30,5,Virtual Reality Adoption,"Increasing adoption of virtual reality devices in entertainment and education.",2026-09-01,2026-11-01,17000,20%,6%,Latin America,2026-11-15
+31,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2026-10-01,2026-12-01,40000,50%,20%,Global,2026-12-15
+32,2,Smartphone Market Shift,"Rapid adoption of 6G smartphones driving market growth.",2027-01-01,2027-03-01,30000,40%,15%,North America,2027-03-15
+33,3,Smart Home Devices Innovation,"Innovative smart home devices driving market growth.",2027-02-01,2027-04-01,26000,35%,12%,Europe,2027-04-15
+34,4,Electric Vehicles Surge,"Increasing sales and adoption of electric vehicles worldwide.",2027-03-01,2027-05-01,22000,30%,10%,Asia-Pacific,2027-05-15
+35,5,Online Gaming Boom,"Surge in online gaming leading to increased demand for gaming hardware.",2027-04-01,2027-06-01,18000,25%,8%,Latin America,2027-06-15
+36,1,Electronics Price Drop,"Competitive pricing leads to increased sales of electronics across multiple regions.",2027-05-01,2027-07-01,45000,55%,22%,Global,2027-07-15
+37,2,Tablet Market Expansion,"Expansion of tablet market due to remote work and online education trends.",2027-06-01,2027-08-01,32000,40%,15%,North America,2027-08-15
+38,3,Smart Home Devices Innovation,"Innovative smart home devices driving market growth.",2027-07-01,2027-09-01,28000,35%,12%,Europe,2027-09-15
+39,4,Electric Vehicles Surge,"Increasing sales and adoption of electric vehicles worldwide.",2027-08-01,2027-10-01,24000,30%,10%,Asia-Pacific,2027-10-15
+41,5,Green Energy Technology Adoption,"Growing adoption of green energy technologies in consumer electronics.",2027-09-01,2027-11-01,20000,25%,8%,Latin America,2027-11-15
+42,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2027-10-01,2027-12-01,50000,60%,25%,Global,2027-12-15
+43,2,Smartphone Market Shift,"Rapid adoption of foldable smartphones driving market growth.",2028-01-01,2028-03-01,38000,50%,18%,North America,2028-03-15
+44,3,Smart Kitchen Appliances Demand Surge,"High demand for smart kitchen appliances with IoT capabilities.",2028-02-01,2028-04-01,32000,45%,15%,Europe,2028-04-15
+45,4,Health and Fitness Wearables Trend,"Increasing popularity of health and fitness wearables.",2028-03-01,2028-05-01,28000,40%,12%,Asia-Pacific,2028-05-15
+46,5,Online Streaming Platforms Boom,"Surge in popularity of online streaming leading to increased demand for streaming devices.",2028-04-01,2028-06-01,24000,35%,10%,Latin America,2028-06-15
+47,1,Back-to-School Electronics Sales,"Seasonal increase in electronics sales driven by back-to-school shopping.",2028-05-01,2028-07-01,55000,65%,28%,Global,2028-07-15
+48,2,Smartphone Camera Innovation,"Advancements in smartphone camera technology boosting market growth.",2028-06-01,2028-08-01,40000,55%,20%,North America,2028-08-15
+49,3,Energy-Efficient Appliances Trend,"Growing preference for energy-efficient appliances.",2028-07-01,2028-09-01,35000,50%,18%,Europe,2028-09-15
+50,4,Electric Scooter Market Expansion,"Expansion of electric scooter market in urban areas.",2028-08-01,2028-10-01,30000,45%,15%,Asia-Pacific,2028-10-15
+51,5,Virtual Reality Adoption,"Increasing adoption of virtual reality devices in entertainment and education.",2028-09-01,2028-11-01,26000,40%,12%,Latin America,2028-11-15
+52,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2028-10-01,2028-12-01,60000,70%,30%,Global,2028-12-15
+53,2,Smartphone Market Shift,"Rapid adoption of 7G smartphones driving market growth.",2029-01-01,2029-03-01,45000,60%,22%,North America,2029-03-15
+54,3,Smart Home Devices Innovation,"Innovative smart home devices driving market growth.",2029-02-01,2029-04-01,40000,55%,20%,Europe,2029-04-15
+55,4,Electric Vehicles Surge,"Continued growth in electric vehicle sales globally.",2029-03-01,2029-05-01,35000,50%,18%,Asia-Pacific,2029-05-15
+56,5,Online Gaming Boom,"Surge in online gaming leading to increased demand for gaming hardware.",2029-04-01,2029-06-01,30000,45%,15%,Latin America,2029-06-15
+57,1,Electronics Price Drop,"Competitive pricing leads to increased sales of electronics across multiple regions.",2029-05-01,2029-07-01,65000,75%,35%,Global,2029-07-15
+58,2,Tablet Market Expansion,"Expansion of tablet market due to remote work and online education trends.",2029-06-01,2029-08-01,50000,70%,28%,North America,2029-08-15
+59,3,Smart Home Devices Innovation,"Innovative smart home devices driving market growth.",2029-07-01,2029-09-01,45000,65%,25%,Europe,2029-09-15
+60,4,Electric Vehicles Surge,"Increasing sales and adoption of electric vehicles worldwide.",2029-08-01,2029-10-01,40000,60%,22%,Asia-Pacific,2029-10-15
+61,5,Virtual Reality Adoption,"Increasing adoption of virtual reality devices in entertainment and education.",2029-09-01,2029-11-01,35000,55%,20%,Latin America,2029-11-15
+62,1,Electronics Sales Boom,"Increased sales of electronics due to holiday season promotions and new product launches.",2029-10-01,2029-12-01,70000,80%,40%,Global,2029-12-15
+63,2,Smartphone Market Shift,"Rapid adoption of foldable smartphones driving market growth.",2030-01-01,2030-03-01,55000,75%,35%,North America,2030-03-15
+64,3,Smart Kitchen Appliances Demand Surge,"High demand for smart kitchen appliances with IoT capabilities.",2030-02-01,2030-04-01,50000,70%,28%,Europe,2030-04-15
+65,4,Health and Fitness Wearables Trend,"Increasing popularity of health and fitness wearables.",2030-03-01,2030-05-01,45000,65%,25%,Asia-Pacific,2030-05-15
+66,5,Online Streaming Platforms Boom,"Surge in popularity of online streaming leading to increased demand for streaming devices.",2030-04-01,2030-06-01,40000,60%,22%,Latin America,2030-06-15
+67,1,Back-to-School Electronics Sales,"Seasonal increase in electronics sales driven by back-to-school shopping.",2030-05-01,2030-07-01,75000,85%,45%,Global,2030-07-15
+68,2,Smartphone Camera Innovation,"Advancements in smartphone camera technology boosting market growth.",2030-06-01,2030-08-01,60000,80%,40%,North America,2030-08-15
+69,3,Energy-Efficient Appliances Trend,"Growing preference for energy-efficient appliances.",2030-07-01,2030-09-01,55000,75%,35%,Europe,2030-09-15

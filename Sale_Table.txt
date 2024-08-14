@@ -1,0 +1,161 @@
+Sale_ID,Customer_ID,Product_ID,Sale_Date,Quantity,Unit_Price,Total_Price,Payment_Method,Transaction_Status,Shipping_Address
+1,101,1,2024-06-01,2,499.99,999.98,Credit Card,Completed,123 Main St, Anytown, USA
+2,102,3,2024-06-02,1,299.99,299.99,PayPal,Completed,456 Elm St, Anycity, USA
+3,103,2,2024-06-03,3,199.99,599.97,Debit Card,Completed,789 Oak St, Othercity, USA
+4,104,4,2024-06-04,1,599.99,599.99,Cash,Completed,101 Pine St, Anothercity, USA
+5,105,5,2024-06-05,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Newtown, USA
+6,106,1,2024-06-06,1,499.99,499.99,PayPal,Completed,303 Maple St, Somewhere, USA
+7,107,2,2024-06-07,1,199.99,199.99,Credit Card,Completed,404 Oak St, Anytown, USA
+8,108,3,2024-06-08,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Othercity, USA
+9,109,4,2024-06-09,2,599.99,1199.98,Cash,Completed,606 Elm St, Anothercity, USA
+10,110,5,2024-06-10,1,399.99,399.99,PayPal,Completed,707 Pine St, Newtown, USA
+11,111,1,2024-06-11,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Somewhere, USA
+12,112,2,2024-06-12,2,199.99,399.98,Debit Card,Completed,909 Elm St, Anytown, USA
+13,113,3,2024-06-13,1,299.99,299.99,Cash,Completed,1010 Cedar St, Othercity, USA
+14,114,4,2024-06-14,2,599.99,1199.98,PayPal,Completed,111 Pine St, Anothercity, USA
+15,115,5,2024-06-15,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Somewhere, USA
+16,116,1,2024-06-16,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Anytown, USA
+17,117,2,2024-06-17,1,199.99,199.99,Cash,Completed,1414 Cedar St, Othercity, USA
+18,118,3,2024-06-18,3,299.99,899.97,PayPal,Completed,1515 Pine St, Anothercity, USA
+19,119,4,2024-06-19,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Somewhere, USA
+20,120,5,2024-06-20,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Anytown, USA
+21,121,1,2024-06-21,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+22,122,3,2024-06-22,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+23,123,2,2024-06-23,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+24,124,4,2024-06-24,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+25,125,5,2024-06-25,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+26,126,1,2024-06-26,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+27,127,2,2024-06-27,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+28,128,3,2024-06-28,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+29,129,4,2024-06-29,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+30,130,5,2024-06-30,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+31,131,1,2024-07-01,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Mexico City, Mexico
+32,132,2,2024-07-02,2,199.99,399.98,Debit Card,Completed,909 Elm St, Dubai, UAE
+33,133,3,2024-07-03,1,299.99,299.99,Cash,Completed,1010 Cedar St, Buenos Aires, Argentina
+34,134,4,2024-07-04,2,599.99,1199.98,PayPal,Completed,111 Pine St, Cape Town, South Africa
+35,135,5,2024-07-05,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Seoul, South Korea
+36,136,1,2024-07-06,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Mumbai, India
+37,137,2,2024-07-07,1,199.99,199.99,Cash,Completed,1414 Cedar St, Istanbul, Turkey
+38,138,3,2024-07-08,3,299.99,899.97,PayPal,Completed,1515 Pine St, Cairo, Egypt
+39,139,4,2024-07-09,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Amsterdam, Netherlands
+40,140,5,2024-07-10,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Bangkok, Thailand
+41,141,1,2024-07-11,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+42,142,3,2024-07-12,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+43,143,2,2024-07-13,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+44,144,4,2024-07-14,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+45,145,5,2024-07-15,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+46,146,1,2024-07-16,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+47,147,2,2024-07-17,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+48,148,3,2024-07-18,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+49,149,4,2024-07-19,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+50,150,5,2024-07-20,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+51,151,1,2024-07-21,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+52,152,3,2024-07-22,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+53,153,2,2024-07-23,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+54,154,4,2024-07-24,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+55,155,5,2024-07-25,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+56,156,1,2024-07-26,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+57,157,2,2024-07-27,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+58,158,3,2024-07-28,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+59,159,4,2024-07-29,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+60,160,5,2024-07-30,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+61,161,1,2024-07-31,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Mexico City, Mexico
+62,162,2,2024-08-01,2,199.99,399.98,Debit Card,Completed,909 Elm St, Dubai, UAE
+63,163,3,2024-08-02,1,299.99,299.99,Cash,Completed,1010 Cedar St, Buenos Aires, Argentina
+64,164,4,2024-08-03,2,599.99,1199.98,PayPal,Completed,111 Pine St, Cape Town, South Africa
+65,165,5,2024-08-04,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Seoul, South Korea
+66,166,1,2024-08-05,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Mumbai, India
+67,167,2,2024-08-06,1,199.99,199.99,Cash,Completed,1414 Cedar St, Istanbul, Turkey
+68,168,3,2024-08-07,3,299.99,899.97,PayPal,Completed,1515 Pine St, Cairo, Egypt
+69,169,4,2024-08-08,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Amsterdam, Netherlands
+70,170,5,2024-08-09,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Bangkok, Thailand
+71,171,1,2024-08-10,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+72,172,3,2024-08-11,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+73,173,2,2024-08-12,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+74,174,4,2024-08-13,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+75,175,5,2024-08-14,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+76,176,1,2024-08-15,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+77,177,2,2024-08-16,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+78,178,3,2024-08-17,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+79,179,4,2024-08-18,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+80,180,5,2024-08-19,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+81,181,1,2024-08-20,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+82,182,3,2024-08-21,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+83,183,2,2024-08-22,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+84,184,4,2024-08-23,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+85,185,5,2024-08-24,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+86,186,1,2024-08-25,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+87,187,2,2024-08-26,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+88,188,3,2024-08-27,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+89,189,4,2024-08-28,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+90,190,5,2024-08-29,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+91,191,1,2024-08-30,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Mexico City, Mexico
+92,192,2,2024-08-31,2,199.99,399.98,Debit Card,Completed,909 Elm St, Dubai, UAE
+93,193,3,2024-09-01,1,299.99,299.99,Cash,Completed,1010 Cedar St, Buenos Aires, Argentina
+94,194,4,2024-09-02,2,599.99,1199.98,PayPal,Completed,111 Pine St, Cape Town, South Africa
+95,195,5,2024-09-03,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Seoul, South Korea
+96,196,1,2024-09-04,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Mumbai, India
+97,197,2,2024-09-05,1,199.99,199.99,Cash,Completed,1414 Cedar St, Istanbul, Turkey
+98,198,3,2024-09-06,3,299.99,899.97,PayPal,Completed,1515 Pine St, Cairo, Egypt
+99,199,4,2024-09-07,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Amsterdam, Netherlands
+100,200,5,2024-09-08,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Bangkok, Thailand
+111,101,1,2024-09-19,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+112,102,3,2024-09-20,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+113,103,2,2024-09-21,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+114,104,4,2024-09-22,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+115,105,5,2024-09-23,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+116,106,1,2024-09-24,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+117,107,2,2024-09-25,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+118,108,3,2024-09-26,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+119,109,4,2024-09-27,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+120,110,5,2024-09-28,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+121,111,1,2024-09-29,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Mexico City, Mexico
+122,112,2,2024-09-30,2,199.99,399.98,Debit Card,Completed,909 Elm St, Dubai, UAE
+123,113,3,2024-10-01,1,299.99,299.99,Cash,Completed,1010 Cedar St, Buenos Aires, Argentina
+124,114,4,2024-10-02,2,599.99,1199.98,PayPal,Completed,111 Pine St, Cape Town, South Africa
+125,115,5,2024-10-03,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Seoul, South Korea
+126,116,1,2024-10-04,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Mumbai, India
+127,117,2,2024-10-05,1,199.99,199.99,Cash,Completed,1414 Cedar St, Istanbul, Turkey
+128,118,3,2024-10-06,3,299.99,899.97,PayPal,Completed,1515 Pine St, Cairo, Egypt
+129,119,4,2024-10-07,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Amsterdam, Netherlands
+130,120,5,2024-10-08,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Bangkok, Thailand
+131,121,1,2024-10-09,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+132,122,3,2024-10-10,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+133,123,2,2024-10-11,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+134,124,4,2024-10-12,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+135,125,5,2024-10-13,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+136,126,1,2024-10-14,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+137,127,2,2024-10-15,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+138,128,3,2024-10-16,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+139,129,4,2024-10-17,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+140,130,5,2024-10-18,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+171,1,1,2024-11-18,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+172,2,3,2024-11-19,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+173,3,2,2024-11-20,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+174,4,4,2024-11-21,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+175,5,5,2024-11-22,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+176,6,1,2024-11-23,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+177,7,2,2024-11-24,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+178,8,3,2024-11-25,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+179,9,4,2024-11-26,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+180,10,5,2024-11-27,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
+181,11,1,2024-11-28,3,499.99,1499.97,Credit Card,Completed,808 Maple St, Mexico City, Mexico
+182,12,2,2024-11-29,2,199.99,399.98,Debit Card,Completed,909 Elm St, Dubai, UAE
+183,13,3,2024-11-30,1,299.99,299.99,Cash,Completed,1010 Cedar St, Buenos Aires, Argentina
+184,14,4,2024-12-01,2,599.99,1199.98,PayPal,Completed,111 Pine St, Cape Town, South Africa
+185,15,5,2024-12-02,1,399.99,399.99,Credit Card,Completed,1212 Maple St, Seoul, South Korea
+186,16,1,2024-12-03,4,499.99,1999.96,Debit Card,Completed,1313 Elm St, Mumbai, India
+187,17,2,2024-12-04,1,199.99,199.99,Cash,Completed,1414 Cedar St, Istanbul, Turkey
+188,18,3,2024-12-05,3,299.99,899.97,PayPal,Completed,1515 Pine St, Cairo, Egypt
+189,19,4,2024-12-06,2,599.99,1199.98,Credit Card,Completed,1616 Maple St, Amsterdam, Netherlands
+190,20,5,2024-12-07,1,399.99,399.99,Debit Card,Completed,1717 Elm St, Bangkok, Thailand
+191,21,1,2024-12-08,2,499.99,999.98,Credit Card,Completed,123 Main St, London, UK
+192,22,3,2024-12-09,1,299.99,299.99,PayPal,Completed,456 Elm St, Paris, France
+193,23,2,2024-12-10,3,199.99,599.97,Debit Card,Completed,789 Oak St, Berlin, Germany
+194,24,4,2024-12-11,1,599.99,599.99,Cash,Completed,101 Pine St, Rome, Italy
+195,25,5,2024-12-12,2,399.99,799.98,Credit Card,Completed,202 Cedar St, Sydney, Australia
+196,26,1,2024-12-13,1,499.99,499.99,PayPal,Completed,303 Maple St, Tokyo, Japan
+197,27,2,2024-12-14,1,199.99,199.99,Credit Card,Completed,404 Oak St, Beijing, China
+198,28,3,2024-12-15,4,299.99,1199.96,Debit Card,Completed,505 Cedar St, Moscow, Russia
+199,29,4,2024-12-16,2,599.99,1199.98,Cash,Completed,606 Elm St, Rio de Janeiro, Brazil
+200,30,5,2024-12-17,1,399.99,399.99,PayPal,Completed,707 Pine St, Toronto, Canada
